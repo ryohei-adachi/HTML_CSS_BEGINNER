@@ -1,0 +1,35 @@
+html {
+    background-color: rgb(32, 32, 32);
+}
+.inner {
+    display: block;
+    text-align: center;
+    color: white;
+}
+
+
+.message {
+
+    font-size: 20px;
+}
+
+
+.city-image {
+    margin-top: 15px;
+}
+
+.title {
+    font-size: 25px;
+}
+
+ul{
+    list-style:square;
+    padding-left: 15px;
+}
+
+.list {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(200, 255, 197);
+}
